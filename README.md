@@ -14,6 +14,10 @@ Erendra
 	<img src="Assets/Prefabs/Screenshot 2024-10-24 075550.png" alt="ภาพตัวอย่างการเล่นในเมือง Verdelon City" width="900">
 </div>
 
+## สไลด์นำเสนอ
+
+- [สไลด์นำเสนอเกม Erendra: Last Hope](https://drive.google.com/file/d/1LaQyQyypcGD-NeYnFUtW_jQw4eciupUq/view?usp=drive_link)
+
 ## วิดีโอตัวอย่าง
 
 คลิกที่ลิงก์เพื่อดูวิดีโอของเกมและทีมผู้พัฒนา
