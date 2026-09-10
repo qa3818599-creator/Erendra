@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3064526200177407091
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_RootOrder
+      value: 77
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.194931
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.28822
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.349064
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000004768371
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 720
+      objectReference: {fileID: 0}
+    - target: {fileID: 791739217075867106, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190722000014820244, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: properties.currentScheme
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370615102242258929, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_Name
+      value: Pavement3_a_Turn_LP_0 Variant 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4370615102242258929, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4370615102242258929, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5116567610853395264}
+  m_SourcePrefab: {fileID: 100100000, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+--- !u!1 &1594530526329883522 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4370615102242258929, guid: ce0c57502a1b7d64cb77ba2ee025cc4a, type: 3}
+  m_PrefabInstance: {fileID: 3064526200177407091}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &5116567610853395264
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1594530526329883522}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
