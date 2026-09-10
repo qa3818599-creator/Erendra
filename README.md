@@ -14,6 +14,15 @@ Erendra
 	<img src="Assets/Prefabs/Screenshot 2024-10-24 075550.png" alt="ภาพตัวอย่างการเล่นในเมือง Verdelon City" width="900">
 </div>
 
+## วิดีโอตัวอย่าง
+
+คลิกที่ลิงก์เพื่อดูวิดีโอของเกมและทีมผู้พัฒนา
+
+- [วิดีโอการเล่นแบบเร็ว](https://drive.google.com/file/d/1a2T49geM1q4bY_uiS_mY7hAtXDlzu5Yb/view?usp=drive_link)
+- [วิดีโอแนะนำทีม](Assets/Prefabs/Team%20members.mp4)
+- [วิดีโอตัวอย่างเกม](Assets/Prefabs/cs1.mp4)
+- [วิดีโอฉากจบและการฟื้นฟูเมือง](Assets/Prefabs/In%20the%20end%2C%20the%20city%20was%20restored%20a%20little%20better.%20But%20there%20are%20still%20many%20areas%20of%20the%20city%20that%20s.mov)
+
 Erendra เป็นเกมผจญภัย 3 มิติในเมือง **Verdelon City** เมืองที่เคยอยู่ร่วมกับธรรมชาติอย่างสงบ แต่ถูกทำลายจากมลพิษและความละเลยของผู้คน
 
 ผู้เล่นจะออกเดินทางร่วมกับเป็ด NPC เพื่อช่วยชาวเมือง ทำความสะอาดพื้นที่ กำจัดมอนสเตอร์ขยะ และฟื้นฟูต้นไม้แห่งชีวิต **Erendra** ให้กลับมาแข็งแกร่งอีกครั้ง
